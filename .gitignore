@@ -1,3 +1,7 @@
+.idea
+dependency-reduced-pom.xml
+*.iml
+
 # Compiled class file
 *.class
 
